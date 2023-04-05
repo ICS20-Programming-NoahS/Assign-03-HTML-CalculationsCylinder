@@ -1,1 +1,2 @@
 # Assign-03-HTML-CalculationsCylinder
+[![GitHub's Super Linter](https://github.com/Assign-03-HTML-CalculationsCylinder/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Assign-03-HTML-CalculationsCylinder/actions)
